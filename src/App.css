@@ -344,3 +344,10 @@ section .form {
     max-width: 100%;
   }
 }
+
+@media screen and (max-width:620px)
+{
+  section{
+    width:80%
+  }
+}
